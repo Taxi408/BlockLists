@@ -1,1 +1,36 @@
-#
+## Domains ##
+xiaomi.com
+xiaomi.net
+xiaomi.cn
+micloud.com
+micloud.net
+micloud.cn
+mi-img.com
+mi-img.net
+mi-img.cn
+mi-fds.com
+mi-fds.net
+mi-fds.cn
+miui.com
+miui.net
+miui.cn
+
+## Wildcarded Domains ##
+*.xiaomi.com
+*.xiaomi.net
+*.xiaomi.net
+*.micloud.com
+*.micloud.net
+*.micloud.cn
+*.mi-img.com
+*.mi-img.net
+*.mi-img.cn
+*.mi-fds.com
+*.mi-fds.net
+*.mi-fds.cn
+*.miui.com
+*.miui.net
+*.miui.cn
+
+## Wildcarded AWS-Domains ##
+*xiaomi*.amazonaws.com
