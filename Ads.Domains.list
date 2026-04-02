@@ -1,14 +1,23 @@
 
 ############################################
 ## Domains ##
+
 adexchangeclear.com
 
 
 
 ############################################
 ## Wildcarded Domains ##
+
 *.adexchangeclear.com
 
+
+############################################
+## Full/Long Domains ##
+
+d26xw8rp6mlgfg.cloudfront.net
+d3b3et9kxou6vz.cloudfront.net
+d19oeedcankpd4.cloudfront.net
 
 
 ############################################
