@@ -1,8 +1,14 @@
-one.one.one.one
-
 ## Google ##
 dns.google
 
 ## Cloudflare ##
 cloudflare-dns.com
 *.cloudflare-dns.com
+one.one.one.one
+
+## Government of Tunisia ##
+dns.defense.tn
+*.dns.defense.tn
+
+## Quad9 ##
+dns9.quad9.net
